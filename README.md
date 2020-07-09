@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy! 👋
+
+You've reached the profile of @BayesForDays. I'm currently not sure what I'm going to put here, but I will say one thing in the meantime:
+
+# FUCK ICE
 
 <!--
 **BayesForDays/BayesForDays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
